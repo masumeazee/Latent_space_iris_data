@@ -1,8 +1,9 @@
-from tensorflow import keras
+
 # *** VAE for Iris dataset ***
 # *** Author: [Masume.Azz] ***
 
 # Dependencies: TensorFlow, scikit-learn, NumPy, Matplotlib
+from tensorflow import keras
 from tensorflow.keras import layers
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
