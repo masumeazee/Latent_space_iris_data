@@ -1,6 +1,6 @@
 # VAE Iris
 Have you ever thought about how it is possible to use the latent space of VAE as a sampling method 
-and distribution model to get the categorical model of data?
+and distribution model to organize data ?
 
 ## Description
 This project demonstrates how the latent space of a Variational Autoencoder (VAE) can be used as an unsupervised clustering
